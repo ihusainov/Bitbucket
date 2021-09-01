@@ -46,7 +46,7 @@ You can see the expiry dates for all your tokens by going to Profile picture > M
 
 Настройка производится на вашей ВМ
 Заходим в каталог где будет производится работа с репозиторием и выполняем следующие комманды
-Допустим вашь сгенерированные токен в Bitbucket  это  MzUyMzEyMTkxMjM4Om07GkOYXxr6dMPGtNNyk8
+Допустим ваш сгенерированные токен в Bitbucket  это  jM4Om07GkOYXxr6dMPGtN8
 Выведем текущие настройки подключения:
 
 git config --list --show-origin
