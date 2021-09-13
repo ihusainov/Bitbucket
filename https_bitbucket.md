@@ -1,4 +1,4 @@
-# HTTPS in Bitbucket
+# Git over HTTPS in Bitbucket
 
 Original  https://confluence.atlassian.com/bitbucketserver/personal-access-tokens-939515499.html
 
